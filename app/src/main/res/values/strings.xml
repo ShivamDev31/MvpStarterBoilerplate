@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MvpStarterBoilerplate</string>
+    <string name="loading">Loading…</string>
+    <string name="error_something_went_wrong">Something went wrong, please try again</string>
+    <string name="enter_github_username">Enter github username</string>
+    <string name="fetch_repos">Fetch Repos</string>
+    <string name="error_fetching_repos">Error while fetching git repos please try again.</string>
+    <string name="error_empty_username">Username cannot be empty</string>
+    <string name="something_bad_happened">Something bad happened.</string>
+</resources>
